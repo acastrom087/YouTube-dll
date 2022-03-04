@@ -1,3 +1,6 @@
 [submodule "webserver"]
 	path = webserver
 	url = https://gitlab.com/czunigar/webserver.git
+[submodule "dbserver"]
+	path = dbserver
+	url = https://gitlab.com/czunigar/dbserver.git
