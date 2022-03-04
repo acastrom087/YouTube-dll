@@ -1,1 +1,9 @@
 
+[submodule "webserver"]
+	path = webserver
+	url = https://gitlab.com/czunigar/webserver.git
+	branch = main
+[submodule "dbserver"]
+	path = dbserver
+	url = https://gitlab.com/czunigar/dbserver.git
+	branch = master
