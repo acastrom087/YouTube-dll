@@ -7,3 +7,6 @@
 	path = dbserver
 	url = https://gitlab.com/czunigar/dbserver.git
 	branch = master
+[submodule "taskserver"]
+	path = taskserver
+	url = https://gitlab.com/czunigar/taskserver.git
